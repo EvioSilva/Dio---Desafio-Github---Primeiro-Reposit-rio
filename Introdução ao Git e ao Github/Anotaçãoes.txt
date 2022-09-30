@@ -1,0 +1,1 @@
+O gitbet é o console extendido extendido para otimmizar o uso do Git
